@@ -1,4 +1,5 @@
-source_code_url: https://github.com/redhat-cop/container-pipelines.git
+# source_code_url: https://github.com/redhat-cop/container-pipelines.git
+source_code_url: https://github.com/jtudelag/container-pipelines.git
 source_code_ref: master
 skip_manual_promotion: false
 
